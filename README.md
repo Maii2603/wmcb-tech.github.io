@@ -3,7 +3,5 @@ A Webpage for myself :)
 
 This can also be used to store packages as repository
 
-## What Packages will be stored?
-Debfiles of course, and I could also port packages that is not available to Termux
-
-Packages in this repository are updated but expect update delays as it needs to update apt index
+## Contents in this repository
+This repository contents is html for the webpage and deb package repository, this can also be served as my personal deb package repository
