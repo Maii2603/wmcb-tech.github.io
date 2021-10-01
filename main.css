@@ -139,7 +139,7 @@ img {
   background:black;
   position:absolute;
   z-index:5;
-  transform:translate(-100%,0%);
+  transform:translate(-200%,0%);
   overflow:hidden;
 }
 
@@ -208,7 +208,7 @@ img {
   position:absolute;
   font-family: 'Poppins', sans-serif;
   z-index:10;
-  transform:translate(100%,0%);
+  transform:translate(200%,0%);
   overflow:hidden;
 }
 
@@ -246,7 +246,7 @@ img {
   color:white; 
   font-size:1.2rem;
   text-align:center;
-  transform:translate(0%,100%);
+  transform:translate(0%,200%);
   overflow:hidden;
 }
 
