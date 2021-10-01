@@ -359,7 +359,6 @@ img {
   flex-direction:column;
   text-align:center;
   padding:5px;
-  overflow:hidden;
 }
 
 .first-project-link a,
@@ -516,7 +515,6 @@ img {
   font-size:2rem;
   letter-spacing:7px;
   position:relative;
-  overflow:hidden;
   
 }
 
